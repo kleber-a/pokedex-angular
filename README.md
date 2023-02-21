@@ -3,7 +3,7 @@
 <img src="./file/Tela1.PNG" alt="Apresetação" width="800" height="400" >
 <img src="./file/Tela2.PNG" alt="Apresentação" width="800" height="400">
 </div>
-Uma aplicação que simula uma pokedex onde é possivel procurar os pokemons pelo nome e acessar suas informações. link para testar: 
+Uma aplicação que simula uma pokedex onde é possivel procurar os pokemons pelo nome e acessar suas informações. link para testar: https://pokedex-angular-eight-delta.vercel.app/
 
 
 ## Api utlizada https://pokeapi.co/
