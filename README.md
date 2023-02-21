@@ -1,5 +1,5 @@
 # pokedex-angular
-<div style="display: inline;">
+<div>
 <img src="./file/Tela1.PNG" alt="Apresetação" width="800" height="400" >
 <img src="./file/Tela2.PNG" alt="Apresentação" width="800" height="400">
 </div>
