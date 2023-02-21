@@ -1,27 +1,35 @@
-# Pokedex
+# pokedex-angular
+<img src="./file/Tela1.PNG" alt="Apresetação" width="400" height="400" >
+<img src="./file/Tela2.PNG" alt="Apresentação" width="400" height="400">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+Uma aplicação que simula uma pokedex onde é possivel procurar os pokemons pelo nome e acessar suas informações. link para testar: 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Api utlizada https://pokeapi.co/
 
-## Code scaffolding
+### 📋 Pré-requisitos
+Para iniciar o projeto será necessário ter instalado em sua máquina o: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto um editor, para trabalhar com o código como o VSCode.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Executando
+1. Clone o repositório para sua máquina
 
-## Build
+```
+git clone https://github.com/kleber-a/computer-store.git
+```
+2. Instale o angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```
+npm install -g @angular/cli
+```
 
-## Running unit tests
+3. Instale as dependências com `npm`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+npm install
+```
 
-## Running end-to-end tests
+4. rode a aplicação 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+ng s
+```
